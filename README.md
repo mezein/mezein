@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on 8-bit RISC from scratch
+- 🔭 I’m currently working on my dissertaion
 - 🌱 I’m currently learning floating point arithmentic
 - 👯 I’m looking to collaborate on chiptune
 - 🤔 I’m looking for help with life
