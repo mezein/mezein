@@ -9,5 +9,5 @@
 - 💬 Ask me about comsci, gaming, padel
 - 📫 How to reach me: i'll say later
 - 😄 Pronouns: he
-- ⚡ Fun fact: commercially kilo, mega and giga refer to units of 1024 not 1000 in digital prodcts
+- ⚡ Fun fact: commercially kilo, mega and giga refer to units of 1024 not 1000 in the context of digital products
 
